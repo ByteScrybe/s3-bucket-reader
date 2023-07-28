@@ -1,0 +1,6 @@
+server:
+  port: 8888
+
+aws:
+  accessKeyId: ${AWS_ACCESS_KEY_ID}
+  secretKey: ${AWS_SECRET_KEY}
