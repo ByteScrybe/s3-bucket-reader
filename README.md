@@ -2,6 +2,10 @@
 
 This Spring Boot application reads Avro files stored in an AWS S3 bucket and prints their content to the console.
 
+## Build Status
+
+![Build badge](https://github.com/ByteScrybe/s3-bucket-reader/actions/workflows/github-actions.yml/badge.svg)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
